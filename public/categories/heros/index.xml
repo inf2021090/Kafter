@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heros on Kafter Gallery</title>
+    <link>http://localhost:1313/categories/heros/</link>
+    <description>Recent content in Heros on Kafter Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/heros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heros</title>
+      <link>http://localhost:1313/heros/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/heros/</guid>
+        <media:content url="http://localhost:1313/heros/scull_hu7f32f9840909a76201acee2be6957602_564095_filter_2999419463905045822.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/heros/scull_hu7f32f9840909a76201acee2be6957602_564095_filter_2999419463905045822.jpg&quot; /&gt;
+          &lt;p&gt;Character Illustrations&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ink-Aquarela on Kafter Gallery</title>
+    <link>http://localhost:1313/categories/ink-aquarela/</link>
+    <description>Recent content in Ink-Aquarela on Kafter Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ink-aquarela/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ink-Aquarela</title>
+      <link>http://localhost:1313/ink-aquarela/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ink-aquarela/</guid>
+        <media:content url="http://localhost:1313/ink-aquarela/car_hufb7546acc0584ca629cce545a8a0ceda_553046_filter_2999419463905045822.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/ink-aquarela/car_hufb7546acc0584ca629cce545a8a0ceda_553046_filter_2999419463905045822.jpg&quot; /&gt;
+          &lt;p&gt;Μερικά έργα στην κατηγορία ink-aquarela.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

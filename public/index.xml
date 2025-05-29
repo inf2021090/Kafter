@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kafter Gallery</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Kafter Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artworks</title>
+      <link>http://localhost:1313/characters/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/</guid>
+        <media:content url="http://localhost:1313/characters/flowercover_hu1ab84417b8bbe8efd359c6a469f6b775_420405_filter_2999419463905045822.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/characters/flowercover_hu1ab84417b8bbe8efd359c6a469f6b775_420405_filter_2999419463905045822.jpg&quot; /&gt;
+          &lt;p&gt;Μερικά από τα πρώτα μου illustrations.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

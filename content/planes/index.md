@@ -13,7 +13,7 @@ resources:
   - src: "ww2.jpg"
     title: "WW2 Planes"
     
-  - src: "moreww2.jpg"
+  - src: "wwmore.jpg"
     title: "WW2 Planes Collection"  # Changed duplicate title
     
   - src: "lookup.jpg"

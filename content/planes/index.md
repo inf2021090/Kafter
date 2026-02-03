@@ -6,7 +6,7 @@ categories: ["planes"]
 resources:
   - src: redbaron.jpg
     title: The Red Baron
-  - src: acejpg
+  - src: ace.jpg
     title: Aces Hight
   - src: ww2.jpg
     title: WW2 planes

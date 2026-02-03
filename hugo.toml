@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://inf2021090.github.io/"#'https://example.org/'
 languageCode = 'en-us'
 title = 'Kafter Gallery'
 theme = 'gallery'

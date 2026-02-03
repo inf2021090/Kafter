@@ -17,4 +17,10 @@ resources:
 
   - src: marcos.jpg
     title: Hasta la Victoria Siempre, Subcomandante Marcos!
+
+  - src: baron.jpg
+    title: Mad Baron of Siberia
+
+  - src: yakuza.jpg
+    title: Yakuza Lady Concept (a bit cyberpunk)
 ---
